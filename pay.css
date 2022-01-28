@@ -1,0 +1,35 @@
+body {
+background-image: url(msg1315999949-2597.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#smart-button-container {
+        margin-top: 22%;
+    position: relative;
+    top: -90px;
+}
+@media (max-width:767px) {
+    #smart-button-container {
+    margin-top: 22%;
+    position: relative;
+    top: 48px;
+    }
+}
+.pay {
+    font-size: 22px;
+    font-family: sans-serif;
+    text-align: center;
+    position: relative;
+    color: transparent;
+    top: -90px;
+}
+@media (max-width:767px) {
+    .pay {
+    font-size: 22px;
+    font-family: sans-serif;
+    text-align: center;
+    position: relative;
+    color: transparent;
+    top: 44px
+    }
+}
